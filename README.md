@@ -1,2 +1,5 @@
-# face_recognition_public
-Face recognition app created in python with opencv library
+# Face recognition app
+Face recognition app created in python with opencv library.
+
+
+ 
